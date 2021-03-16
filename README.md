@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi! 👋 I'm Jonathan Gomez.
+
+I'm a software engineer, currently going through school. I’m currently learning C#, SQL, CSS and HTML.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-f-gomez)](https://github.com/jonathan-f-gomez/github-readme-stats)
+
+*****
+
+[![linkedin-box-fill](https://user-images.githubusercontent.com/77364011/111341579-e3045500-8636-11eb-81fa-15251a293e7e.png)][1]
+
+[1]: https://www.linkedin.com/in/jonathan-f-gomez/
 
 <!--
 **jonathan-f-gomez/jonathan-f-gomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
