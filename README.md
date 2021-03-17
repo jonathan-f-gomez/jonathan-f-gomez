@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Jonathan Gomez.
 
-I'm a software engineer, currently going to school learning C#, SQL, CSS and HTML.
+I'm a Software Engineer currently going to school learning C#, SQL, CSS, and HTML.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-f-gomez)](https://github.com/jonathan-f-gomez/github-readme-stats)
 
