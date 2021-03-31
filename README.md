@@ -3,7 +3,7 @@
 I'm a Software Engineer currently going to school learning C#, SQL, CSS, and HTML.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-f-gomez&layout=compact)](https://github.com/jonathan-f-gomez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-f-gomez&hide=javascript&theme=radical&layout=compact)](https://github.com/jonathan-f-gomez/github-readme-stats)
 
 *****
 
